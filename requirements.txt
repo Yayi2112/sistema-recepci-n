@@ -1,6 +1,4 @@
 streamlit
 streamlit-drawable-canvas
+Pillow
 reportlab
-openpyxl
-pillow
-pandas
